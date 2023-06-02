@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app-v2.js"
   },
   "dependencies": {
     "@faker-js/faker": "^8.0.2",
